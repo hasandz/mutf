@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	İÇLİ KÖFTE yazısına yapılan yorumlar	</title>
+	<atom:link href="/icli-kofte/feed/" rel="self" type="application/rss+xml" />
+	<link>/icli-kofte/</link>
+	<description></description>
+	<lastBuildDate>Wed, 16 Feb 2011 08:00:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: Söz Yılmaz		</title>
+		<link>/icli-kofte/#comment-45</link>
+
+		<dc:creator><![CDATA[Söz Yılmaz]]></dc:creator>
+		<pubDate>Wed, 16 Feb 2011 08:00:21 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=42#comment-45</guid>
+
+					<description><![CDATA[Buzluğa atıp şok dondurma yapabilirdiniz:))]]></description>
+			<content:encoded><![CDATA[<p>Buzluğa atıp şok dondurma yapabilirdiniz:))</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Yazar: Söz Yılmaz		</title>
+		<link>/icli-kofte/#comment-44</link>
+
+		<dc:creator><![CDATA[Söz Yılmaz]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 10:31:22 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=42#comment-44</guid>
+
+					<description><![CDATA[Tamam, yaparım:))Kurabiyelerin fotoğrafını çekmedim. Hemen çekip yayınlayacağım...]]></description>
+			<content:encoded><![CDATA[<p>Tamam, yaparım:))Kurabiyelerin fotoğrafını çekmedim. Hemen çekip yayınlayacağım&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Yazar: aslı		</title>
+		<link>/icli-kofte/#comment-43</link>
+
+		<dc:creator><![CDATA[aslı]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 06:31:05 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=42#comment-43</guid>
+
+					<description><![CDATA[biz gelince isteriz :) nerde benim kurabiyeler?]]></description>
+			<content:encoded><![CDATA[<p>biz gelince isteriz 🙂 nerde benim kurabiyeler?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

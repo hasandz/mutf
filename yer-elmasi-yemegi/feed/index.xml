@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	YER ELMASI YEMEĞİ yazısına yapılan yorumlar	</title>
+	<atom:link href="/yer-elmasi-yemegi/feed/" rel="self" type="application/rss+xml" />
+	<link>/yer-elmasi-yemegi/</link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Jan 2011 12:57:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: Söz Yılmaz		</title>
+		<link>/yer-elmasi-yemegi/#comment-35</link>
+
+		<dc:creator><![CDATA[Söz Yılmaz]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2011 12:57:57 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=28#comment-35</guid>
+
+					<description><![CDATA[Teşekkür ederim, Sizinde yeni yılınız kutlu olsun:)]]></description>
+			<content:encoded><![CDATA[<p>Teşekkür ederim, Sizinde yeni yılınız kutlu olsun:)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Yazar: aslı		</title>
+		<link>/yer-elmasi-yemegi/#comment-34</link>
+
+		<dc:creator><![CDATA[aslı]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2010 12:35:28 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=28#comment-34</guid>
+
+					<description><![CDATA[Değişik birşey :) bende denemek isterim. Ellerine sağlık Tuğbacığım. Yeni yılınız kutlu olsun.]]></description>
+			<content:encoded><![CDATA[<p>Değişik birşey 🙂 bende denemek isterim. Ellerine sağlık Tuğbacığım. Yeni yılınız kutlu olsun.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

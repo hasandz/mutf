@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	FIRINDA TÜM TAVUK yazısına yapılan yorumlar	</title>
+	<atom:link href="/firinda-tum-tavuk/feed/" rel="self" type="application/rss+xml" />
+	<link>/firinda-tum-tavuk/</link>
+	<description></description>
+	<lastBuildDate>Fri, 14 Jan 2011 18:00:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: Anonymous		</title>
+		<link>/firinda-tum-tavuk/#comment-37</link>
+
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2011 18:00:04 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=30#comment-37</guid>
+
+					<description><![CDATA[ben denedim.çok güzel oldu.Öneriyorum.]]></description>
+			<content:encoded><![CDATA[<p>ben denedim.çok güzel oldu.Öneriyorum.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

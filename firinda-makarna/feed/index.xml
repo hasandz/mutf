@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	FIRINDA MAKARNA yazısına yapılan yorumlar	</title>
+	<atom:link href="/firinda-makarna/feed/" rel="self" type="application/rss+xml" />
+	<link>/firinda-makarna/</link>
+	<description></description>
+	<lastBuildDate>Mon, 10 Oct 2016 19:48:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: aslı		</title>
+		<link>/firinda-makarna/#comment-18</link>
+
+		<dc:creator><![CDATA[aslı]]></dc:creator>
+		<pubDate>Fri, 10 Dec 2010 13:31:11 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=13#comment-18</guid>
+
+					<description><![CDATA[hahahaahah, tatlım sen iyi dayanmışsın :) biz dayanamıyoruz. çok lezzetli bir yemek.]]></description>
+			<content:encoded><![CDATA[<p>hahahaahah, tatlım sen iyi dayanmışsın 🙂 biz dayanamıyoruz. çok lezzetli bir yemek.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Yazar: Söz Yılmaz		</title>
+		<link>/firinda-makarna/#comment-17</link>
+
+		<dc:creator><![CDATA[Söz Yılmaz]]></dc:creator>
+		<pubDate>Tue, 30 Nov 2010 17:41:22 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=13#comment-17</guid>
+
+					<description><![CDATA[Fırında makarna yaptığımda hemen yemek istediğim için servis tabağına alıp fotoğraf çekecek sabrım yoktu.. Tepside fırının üzerindeki fotoğrafla idare edelim:))]]></description>
+			<content:encoded><![CDATA[<p>Fırında makarna yaptığımda hemen yemek istediğim için servis tabağına alıp fotoğraf çekecek sabrım yoktu.. Tepside fırının üzerindeki fotoğrafla idare edelim:))</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

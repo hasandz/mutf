@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	D BÖREK yazısına yapılan yorumlar	</title>
+	<atom:link href="/d-borek/feed/" rel="self" type="application/rss+xml" />
+	<link>/d-borek/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Dec 2010 10:04:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: Söz Yılmaz		</title>
+		<link>/d-borek/#comment-33</link>
+
+		<dc:creator><![CDATA[Söz Yılmaz]]></dc:creator>
+		<pubDate>Thu, 30 Dec 2010 10:04:20 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=27#comment-33</guid>
+
+					<description><![CDATA[Aslıcım, saymadım ama tahminen 16-20 arası diye düşünüyorum.]]></description>
+			<content:encoded><![CDATA[<p>Aslıcım, saymadım ama tahminen 16-20 arası diye düşünüyorum.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Yazar: aslı		</title>
+		<link>/d-borek/#comment-32</link>
+
+		<dc:creator><![CDATA[aslı]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2010 11:41:51 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=27#comment-32</guid>
+
+					<description><![CDATA[kaç tane oluyor? :)]]></description>
+			<content:encoded><![CDATA[<p>kaç tane oluyor? 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Yazar: Hasan		</title>
+		<link>/d-borek/#comment-31</link>
+
+		<dc:creator><![CDATA[Hasan]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2010 10:41:47 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=27#comment-31</guid>
+
+					<description><![CDATA[Çok severiz :) eline sağlık]]></description>
+			<content:encoded><![CDATA[<p>Çok severiz 🙂 eline sağlık</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

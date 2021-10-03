@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	DEREOTLU MISIRLI PİLAV yazısına yapılan yorumlar	</title>
+	<atom:link href="/dereotlu-misirli-pilav/feed/" rel="self" type="application/rss+xml" />
+	<link>/dereotlu-misirli-pilav/</link>
+	<description></description>
+	<lastBuildDate>Mon, 03 Jan 2011 16:11:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: yaprak		</title>
+		<link>/dereotlu-misirli-pilav/#comment-36</link>
+
+		<dc:creator><![CDATA[yaprak]]></dc:creator>
+		<pubDate>Mon, 03 Jan 2011 16:11:37 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=29#comment-36</guid>
+
+					<description><![CDATA[olsa da yesek:)]]></description>
+			<content:encoded><![CDATA[<p>olsa da yesek:)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

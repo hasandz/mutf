@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Pastahane Poğaçası yazısına yapılan yorumlar	</title>
+	<atom:link href="/pastahane-pogacasi/feed/" rel="self" type="application/rss+xml" />
+	<link>/pastahane-pogacasi/</link>
+	<description></description>
+	<lastBuildDate>Sat, 13 Feb 2016 19:47:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: DİŞ BUĞDAYI MASASI-2 &#8211; Söz Mutfakta		</title>
+		<link>/pastahane-pogacasi/#comment-68</link>
+
+		<dc:creator><![CDATA[DİŞ BUĞDAYI MASASI-2 &#8211; Söz Mutfakta]]></dc:creator>
+		<pubDate>Sat, 13 Feb 2016 19:47:34 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=623#comment-68</guid>
+
+					<description><![CDATA[[&#8230;] Pastahane Poğaçası [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Pastahane Poğaçası [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

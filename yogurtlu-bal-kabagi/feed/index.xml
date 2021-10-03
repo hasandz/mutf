@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Yoğurtlu Bal Kabağı yazısına yapılan yorumlar	</title>
+	<atom:link href="/yogurtlu-bal-kabagi/feed/" rel="self" type="application/rss+xml" />
+	<link>/yogurtlu-bal-kabagi/</link>
+	<description></description>
+	<lastBuildDate>Wed, 30 Jan 2013 07:19:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<!--Theme by MyThemeShop.com-->
+	<item>
+		<title>
+		Yazar: asligibisiyok		</title>
+		<link>/yogurtlu-bal-kabagi/#comment-57</link>
+
+		<dc:creator><![CDATA[asligibisiyok]]></dc:creator>
+		<pubDate>Wed, 30 Jan 2013 07:19:16 +0000</pubDate>
+		<guid isPermaLink="false">http://sozmutfakta.com/?p=418#comment-57</guid>
+
+					<description><![CDATA[bende deneyim. sevgiler]]></description>
+			<content:encoded><![CDATA[<p>bende deneyim. sevgiler</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

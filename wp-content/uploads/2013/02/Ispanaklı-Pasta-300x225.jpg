@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.sozmutfakta.com/wp-content/uploads/2013/02/Ispanakl%C4%B1-Pasta-300x225.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.sozmutfakta.com/wp-content/uploads/2013/02/Ispanakl%C4%B1-Pasta-300x225.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://www.sozmutfakta.com/wp-content/uploads/2013/02/Ispanakl%C4%B1-Pasta-300x225.jpg">https://www.sozmutfakta.com/wp-content/uploads/2013/02/Ispanakl%C4%B1-Pasta-300x225.jpg</a></p>
+	</body>
+</html>
